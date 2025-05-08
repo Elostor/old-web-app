@@ -1,4 +1,4 @@
-import 'package:MaydaNozzle/constants/colors.dart';
+import 'package:OldWebApp/constants/colors.dart';
 import 'package:flutter/material.dart';
 
 enum ThemeType {

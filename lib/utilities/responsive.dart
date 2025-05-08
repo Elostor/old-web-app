@@ -1,4 +1,4 @@
-import 'package:MaydaNozzle/constants/screen_size.dart';
+import 'package:OldWebApp/constants/screen_size.dart';
 import 'package:flutter/material.dart';
 import 'package:sized_context/sized_context.dart';
 

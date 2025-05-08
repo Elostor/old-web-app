@@ -1,7 +1,7 @@
-import 'package:MaydaNozzle/constants/icons.dart';
-import 'package:MaydaNozzle/helpers/animated_fade_in_out.dart';
-import 'package:MaydaNozzle/helpers/provider/scroll_provider.dart';
-import 'package:MaydaNozzle/utilities/responsive.dart';
+import 'package:OldWebApp/constants/icons.dart';
+import 'package:OldWebApp/helpers/animated_fade_in_out.dart';
+import 'package:OldWebApp/helpers/provider/scroll_provider.dart';
+import 'package:OldWebApp/utilities/responsive.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

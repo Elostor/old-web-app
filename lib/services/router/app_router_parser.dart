@@ -1,5 +1,5 @@
-import 'package:MaydaNozzle/constants/paths.dart';
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_state.dart';
+import 'package:OldWebApp/constants/paths.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_state.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import '../bloc/app_page/app_page_bloc.dart';

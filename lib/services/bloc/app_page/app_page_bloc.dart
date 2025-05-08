@@ -1,5 +1,5 @@
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_event.dart';
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_state.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_event.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class AppPageBloc extends Bloc<AppPageEvent, AppPageState> {

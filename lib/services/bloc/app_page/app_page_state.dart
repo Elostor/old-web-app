@@ -1,4 +1,4 @@
-import 'package:MaydaNozzle/constants/paths.dart';
+import 'package:OldWebApp/constants/paths.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/foundation.dart' show immutable;
 

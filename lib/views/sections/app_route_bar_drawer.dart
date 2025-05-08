@@ -1,8 +1,8 @@
 import 'dart:ui';
-import 'package:MaydaNozzle/constants/icons.dart';
-import 'package:MaydaNozzle/constants/turkish_lang.dart';
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_bloc.dart';
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_event.dart';
+import 'package:OldWebApp/constants/icons.dart';
+import 'package:OldWebApp/constants/turkish_lang.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_bloc.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_event.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

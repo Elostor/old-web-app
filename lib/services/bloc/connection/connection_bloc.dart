@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:MaydaNozzle/services/bloc/connection/connection_event.dart';
-import 'package:MaydaNozzle/services/bloc/connection/connection_state.dart';
+import 'package:OldWebApp/services/bloc/connection/connection_event.dart';
+import 'package:OldWebApp/services/bloc/connection/connection_state.dart';
 import 'package:bloc/bloc.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 

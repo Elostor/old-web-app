@@ -1,7 +1,7 @@
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_bloc.dart';
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_event.dart';
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_state.dart';
-import 'package:MaydaNozzle/views/app_main_view.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_bloc.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_event.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_state.dart';
+import 'package:OldWebApp/views/app_main_view.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 

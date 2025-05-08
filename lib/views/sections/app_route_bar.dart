@@ -1,9 +1,9 @@
-import 'package:MaydaNozzle/constants/colors.dart';
-import 'package:MaydaNozzle/constants/icons.dart';
-import 'package:MaydaNozzle/constants/turkish_lang.dart';
-import 'package:MaydaNozzle/helpers/provider/drawer_provider.dart';
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_bloc.dart';
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_event.dart';
+import 'package:OldWebApp/constants/colors.dart';
+import 'package:OldWebApp/constants/icons.dart';
+import 'package:OldWebApp/constants/turkish_lang.dart';
+import 'package:OldWebApp/helpers/provider/drawer_provider.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_bloc.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_event.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:sized_context/sized_context.dart';

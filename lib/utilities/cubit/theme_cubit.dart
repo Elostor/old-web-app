@@ -1,4 +1,4 @@
-import 'package:MaydaNozzle/constants/themes.dart';
+import 'package:OldWebApp/constants/themes.dart';
 import 'package:hydrated_bloc/hydrated_bloc.dart';
 
 class ThemeCubit extends HydratedCubit<ThemeType> {

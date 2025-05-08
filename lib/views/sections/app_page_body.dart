@@ -1,6 +1,6 @@
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_bloc.dart';
-import 'package:MaydaNozzle/services/bloc/app_page/app_page_state.dart';
-import 'package:MaydaNozzle/views/sections/home_page_steps_widget_wrapper.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_bloc.dart';
+import 'package:OldWebApp/services/bloc/app_page/app_page_state.dart';
+import 'package:OldWebApp/views/sections/home_page_steps_widget_wrapper.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
