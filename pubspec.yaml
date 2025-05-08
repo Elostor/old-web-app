@@ -1,0 +1,119 @@
+name: MaydaNozzle
+description: An application for 3D printing.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0-262.0.dev <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get_it: ^7.6.4
+  bloc: ^8.1.2
+  flutter_bloc: ^8.1.3
+  font_awesome_flutter: ^10.5.0
+  firebase_analytics: ^10.4.5
+  firebase_app_check: ^0.1.5+2
+  firebase_auth: ^4.9.0
+  cloud_firestore: ^4.9.1
+  dio: ^5.3.2
+  flutter_carousel_widget: ^2.1.0
+  flutter_native_splash: ^2.3.2
+  connectivity_plus: ^4.0.2
+  ionicons: ^0.2.2
+  hydrated_bloc: ^9.1.2
+  path_provider: ^2.1.1
+  file_selector: ^1.0.1
+  google_sign_in: ^6.1.5
+  sized_context: ^1.0.0+4
+  equatable: ^2.0.5
+  provider: ^6.0.5
+  sizer_pro: ^2.2.0
+  scrollable_positioned_list: ^0.3.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/home_page/
+    - assets/logo/
+  fonts:
+    - family: Onest
+      fonts:
+        - asset: assets/fonts/Onest-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Onest-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Onest-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Onest-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Onest-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Onest-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Onest-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Onest-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Onest-Black.ttf
+          weight: 900
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Poppins-ThinItalic.ttf
+          weight: 100
+          style: italic
+        - asset: assets/fonts/Poppins-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Poppins-ExtraLightItalic.ttf
+          weight: 200
+          style: italic
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/Poppins-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Poppins-ExtraBoldItalic.ttf
+          weight: 800
+          style: italic
+        - asset: assets/fonts/Poppins-Black.ttf
+          weight: 900
+        - asset: assets/fonts/Poppins-BlackItalic.ttf
+          weight: 900
+          style: italic

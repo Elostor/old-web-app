@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014202871879",
+    "project_id": "mayda-nozzle",
+    "storage_bucket": "mayda-nozzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014202871879:android:6ace78bf40142e01994162",
+        "android_client_info": {
+          "package_name": "com.example.maydanozzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMqgonwcsN8Fj781HM-UScegEJbyyhW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
